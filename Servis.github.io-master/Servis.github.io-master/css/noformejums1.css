@@ -1,0 +1,91 @@
+body{
+
+	background-color: #90EE90;
+}
+p{
+	line-height: 1.90;
+}
+.main{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #4d4d4d;
+	background-color: #FFFFF0;
+	text-align: center;
+	width: 85%;
+	height: auto;
+	margin: auto;
+	margin-top:50px;
+	font-size:120%;
+	margin-bottom:70px;
+
+
+}
+
+.main-inside {
+	margin-left:20px;
+	margin-right:20px;
+	margin-bottom:100px
+
+}
+
+.mape {
+	width:100%;
+	overflow:hidden;
+	
+}
+
+.leftaside{
+	background-color: blue;
+}
+
+.rightaside{
+	background-color: green;
+}
+
+.title{
+	text-align: center;
+}
+
+.article{
+	text-align: center;
+}
+
+
+.btn-warning{
+	background-color:orange;
+}
+
+.navbar{
+	border-radius:0px;
+	border:30px;
+
+}
+
+.navbar-collapse {
+	align-self: center;
+}
+
+.navbar-inverse {
+   background-color: #808080;
+   border-color: #90EE90;
+}
+
+.myBtn{
+	background-color:red;
+}
+
+.gallery {
+	margin : 10px 50 px;
+}
+
+.gallery img {
+	width: 220px;
+	height: 150px;
+	padding: 05px;
+	transition: 0.2s;
+
+
+}
+.gallery img:hover {
+	transform: scale(1.1);
+}
